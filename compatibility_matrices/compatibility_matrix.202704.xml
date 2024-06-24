@@ -414,7 +414,7 @@
     </hal>
     <hal format="aidl">
         <name>android.hardware.radio.config</name>
-        <version>3-5</version>
+        <version>1.5-6</version>
         <interface>
             <name>IRadioConfig</name>
             <instance>default</instance>
